@@ -37,14 +37,13 @@ A **high-contrast, ultra-readable UV grid texture** crafted for accurate unwrapp
 
 > This project originated from a pro tip shared on the Rhino forums:  
 [🔗 UVEditor Thread on McNeel Discourse](https://discourse.mcneel.com/t/uveditor-tip-uv-mapping-replace-your-uv-grid-texture)
-
-![Rhino UV Mapping Example](examples/rhino_uveditor_demo.png)
+> ![Rhino UV Mapping Example](https://global.discourse-cdn.com/mcneel/uploads/default/original/3X/0/b/0b051d7bcc065e9414fc98e3123168969f20dcd0.mp4)
 
 ---
 
 ## 🛠️ How to Use
 
-1. Import the texture into your 3D software (e.g., RizomUV, Rhino, Painter, Blender).
+1. Import the texture into your favorite 3D unwrapping software (e.g., RizomUV, Rhino, Painter, Blender).
 2. Apply it to your object’s material
 3. Enter UV Editor / Unwrap tool and start unwrapping
 4. Adjust UVs for scale uniformity & orientation using the visible numbered cells and arrows
@@ -55,9 +54,9 @@ Pro Tip: Use this with reflective or displaced shaders to quickly catch misalign
 
 ## 🧩 Compatibility
 
-- Rhino
-- Blender
-- [RizomUV](https://www.rizomuv.com/) specific UV unwrapping tool
+- [RizomUV](https://www.rizomuv.com/) specific UV mapping unwrapping software tool
+- Rhinoceros 3D
+- Blender (excellent unwrapping pay course)[https://www.udemy.com/course/learn-uv-unwrapping-with-blender-for-unity-3d-game-design]
 - Substance Painter / Designer
 - Unreal Engine
 - Unity Render Pipeline
@@ -68,7 +67,7 @@ Pro Tip: Use this with reflective or displaced shaders to quickly catch misalign
 
 ## 📖 License
 
-This project is licensed under the **MIT License** — you can use it freely in both commercial and non-commercial projects.  
+This project is licensed under the **[MIT License](https://github.com/ALanMAttano/PrecisionUV/blob/main/LICENSE)** — you can use it freely in both commercial and non-commercial projects.  
 Attribution appreciated but not required.
 
 ---
@@ -82,7 +81,7 @@ Pull requests welcome — let's elevate the UV game together.
 
 ## 🤝 Contribute
 
-Ideas? Better grid schemes? Want a 2K or 8K version?  
+Ideas? Better grid schemes? Would you like a 64 or 128 version?  
 Open an issue or pull request. This is a living tool — shaped by designers for designers.
 
 ---
