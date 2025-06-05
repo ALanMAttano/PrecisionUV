@@ -30,7 +30,7 @@ Click to download the UV texture map in your preferred resolution up to 4K:
 
 ## 💖 Sponsor This Project
 
-If this "UV Checker Grid" texture map has helped improve your UV unwrapping workflow, consider supporting its development. Your support helps maintain, update, and expand free tools for the 3D community.
+If this "UV Checker Grid" precision UV texture map has helped improve your unwrapping workflow, consider supporting its development. Your support helps maintain, update, and expand free tools for the 3D community.
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/SoaringClouds)
 
