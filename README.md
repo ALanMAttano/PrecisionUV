@@ -5,6 +5,10 @@ A **high-contrast, ultra-readable UV grid texture** crafted for accurate unwrapp
 > “A beautiful texture isn't just about surface — it's how it maps the soul of geometry.”  
 > — *Inspired by the spirit of working with Pininfarina and German Frers*
 
+
+![1K UV Grid Preview](textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
+
+
 ---
 
 ## 🚀 Features: Technical Highlights
