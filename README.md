@@ -23,7 +23,7 @@ Click to download the UV texture map in your preferred resolution up to 4K:
 
 - 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
 - 🔹 [Download 2K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
-- 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
+- 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-01-4K.png)
 - 🔹 [Download 8K (paid version)](https://textures.mattano.com)
 
 
