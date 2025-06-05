@@ -1,6 +1,13 @@
-# 🎯 PrecisionUV — Designer UV Grid Texture for 3D Workflows
+1 Sep 2019 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.
 
-A **high-contrast, ultra-readable UV grid texture** crafted for accurate unwrapping and model optimization. Designed for clarity at all angles and scales. Compatible with Rhino, Blender, Unreal Engine, Unity, Substance, and dedicated UV tools like RizomUV.
+# 🎯 UV-Checker-Grid — High-Precision Default UV Test Texture for 3D Workflows
+
+🔥 A **UV grid checker texture** engineered for professional UV debugging, unwrapping, testing, and alignment across all 3D pipelines. This high-contrast, ultra-readable grid is ideal for determining the optimal resolution for your 3D model and for identifying distortion, flipped UV islands, scaling issues, and seam errors.
+
+🧠 Commonly referred to as:
+**UVGrid**, **UVCheckerMap**, **UVTestGrid**, **UVMapGuide**, **UVUnwrapGrid**, **UVCheckerTexture**, or **UVDebugMap** — this texture consolidates the strengths of all of them into one powerful, go-to default map.
+
+🎮 Compatible with Rhino, Blender, Unreal Engine, Unity, Substance 3D, RizomUV, and any tool supporting custom UV test textures.
 
 > “A beautiful texture isn't just about surface — it's how it maps the soul of geometry.”  
 > — *Inspired by the spirit of working with Pininfarina and German Frers*
@@ -13,9 +20,9 @@ A **high-contrast, ultra-readable UV grid texture** crafted for accurate unwrapp
 
 Click to download the UV texture map in your preferred resolution up to 4K:
 
-- 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/PrecisionUV/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
-- 🔹 [Download 2K](https://raw.githubusercontent.com/ALanMAttano/PrecisionUV/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
-- 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/PrecisionUV/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
+- 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
+- 🔹 [Download 2K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
+- 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
 - 🔹 [Download 8K (paid version)](https://textures.mattano.com)
 
 
@@ -81,7 +88,7 @@ Click to download the UV texture map in your preferred resolution up to 4K:
 
 ## 📖 License
 
-This project is licensed under the **[MIT License](https://github.com/ALanMAttano/PrecisionUV/blob/main/LICENSE)** — free for commercial and non-commercial use.  
+This project is licensed under the **[MIT License](https://github.com/ALanMAttano/UV-Checker-Grid/blob/main/LICENSE)** — free for commercial and non-commercial use.  
 Attribution appreciated, but not required.
 
 ---
@@ -96,7 +103,7 @@ Pull requests are welcome — let’s continue to improve UV workflows together.
 ## 🤝 Contribute
 
 Do you have any ideas for new features? Need a 64 or 128-division version? Want to localize fonts or add colorblind-safe variants?  
-Open an issue or submit a PR. PrecisionUV is built by designers, for designers.
+Open an issue or submit a PR. UV-Checker-Grid is built by designers, for designers.
 
 ---
 
