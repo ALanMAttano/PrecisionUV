@@ -51,7 +51,7 @@ Click to download the UV texture map in your preferred resolution up to 4K:
 > This project was inspired by a pro tip shared on the Rhino forums:  
 [🔗 McNeel Discourse: UV Mapping Tip](https://discourse.mcneel.com/t/uveditor-tip-uv-mapping-replace-your-uv-grid-texture)
 
-> ![Rhino UV Mapping Example](https://global.discourse-cdn.com/mcneel/uploads/default/original/3X/0/b/0b051d7bcc065e9414fc98e3123168969f20dcd0.mp4)
+> ! [Rhino UV Mapping Example](https://global.discourse-cdn.com/mcneel/uploads/default/original/3X/0/b/0b051d7bcc065e9414fc98e3123168969f20dcd0.mp4)
 
 ---
 
