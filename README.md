@@ -26,6 +26,14 @@ Click to download the UV texture map in your preferred resolution up to 4K:
 - 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-01-4K.png)
 - 🔹 [Download 8K (paid version)](https://textures.mattano.com)
 
+---
+
+## 💖 Sponsor This Project
+
+If this "UV Checker Grid" texture map has helped improve your UV unwrapping workflow, consider supporting its development. Your support helps maintain, update, and expand free tools for the 3D community.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/SoaringClouds)
+
 
 ---
 
