@@ -1,4 +1,4 @@
-1 Sep 2019 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.
+Friday, ‎August ‎2, ‎2013 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.
 
 # 🎯 UV-Checker-Grid 
 # High-Precision Default UV Test Texture for 3D Workflows
