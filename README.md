@@ -3,7 +3,7 @@
 A **high-contrast, ultra-readable UV grid texture** crafted for accurate unwrapping and model optimization. Designed for clarity at all angles and scales. Compatible with Rhino, Blender, Unreal Engine, Unity, Substance, and dedicated UV tools like RizomUV.
 
 > “A beautiful texture isn't just about surface — it's how it maps the soul of geometry.”  
-> — *Inspired by the spirit of Pininfarina & German Frers*
+> — *Inspired by the spirit of working with Pininfarina and German Frers*
 
 ---
 
