@@ -1,6 +1,7 @@
 1 Sep 2019 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.
 
-# 🎯 UV-Checker-Grid — High-Precision Default UV Test Texture for 3D Workflows
+# 🎯 UV-Checker-Grid 
+# High-Precision Default UV Test Texture for 3D Workflows
 
 🔥 A **UV grid checker texture** engineered for professional UV debugging, unwrapping, testing, and alignment across all 3D pipelines. This high-contrast, ultra-readable grid is ideal for determining the optimal resolution for your 3D model and for identifying distortion, flipped UV islands, scaling issues, and seam errors.
 
