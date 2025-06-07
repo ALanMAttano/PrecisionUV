@@ -2,7 +2,7 @@
 
 # 🎯 UV-Checker-Grid 
 
-![1K UV Grid Preview](textures/AM2512v43-UVCheckerGrid-UnwrapDebugging-TextureMap-2K.png)
+![1K UV Grid Preview](textures/AM2512v43-UVCheckerGrid-UnwrapDebugging-TextureMap-1K.png)
 
 
 
