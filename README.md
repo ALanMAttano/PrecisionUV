@@ -31,7 +31,7 @@ Attribution appreciated, but not required.
 
 Click to download the UV texture map in your preferred resolution up to 4K:
 
-- 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-512.png)
+- 🔹 [Download 512](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-512.png)
 - 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-1K.png)
 - 🔹 [Download 2K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-2K.png)
 - 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-4K.png)
