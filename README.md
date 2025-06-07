@@ -2,7 +2,7 @@
 
 # 🎯 UV-Checker-Grid 
 
-![1K UV Grid Preview](textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
+![1K UV Grid Preview](textures/AM2512v43-UVCheckerGrid-UnwrapDebugging-TextureMap-2K.png)
 
 
 
