@@ -1,4 +1,4 @@
-Friday, ‎August ‎2, ‎2013 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.
+**Friday, ‎August ‎2, ‎2013 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.**
 
 # 🎯 UV-Checker-Grid 
 
@@ -31,9 +31,10 @@ Attribution appreciated, but not required.
 
 Click to download the UV texture map in your preferred resolution up to 4K:
 
-- 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
-- 🔹 [Download 2K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-06-2K.png)
-- 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/PrecisionUVmapTexture-AlanMatt-Vr4-01-4K.png)
+- 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-512.png)
+- 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-1K.png)
+- 🔹 [Download 2K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-2K.png)
+- 🔹 [Download 4K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-4K.png)
 - 🔹 [Download 8K (paid version)](https://textures.mattano.com)
 
 ---
@@ -143,10 +144,15 @@ I began creating and selling textures in 2007, and by 2011, I was developing blu
 That’s why I initially used those huge, ugly numbers. Things got even messier when I started adding different materials. lol
 Draft but ready early attempts!
 
+![1K UV Grid Preview](textures/AM-UV-v0-4K.png)
+
 Each year, I refine the texture, making it cleaner and more efficient. I began by identifying the features I was using intuitively. Then, by extracting and isolating those elements, I created specific patterns, icons or symbol-shaped objects to handle each individual task.
 
 I didn’t create the Rhino one, but I use it as inspiration, trying to follow its spirit as closely as possible. The original blue color scheme and font were part of my style, but they ultimately proved too specific and distracting. The same goes for the Rhino font.
 
 I moved toward a more neutral gray and switched to Roboto, a widely used and familiar font, so that it wouldn’t visually interfere or draw unnecessary attention. I try to remove myself from the design as much as possible and keep pushing by avoiding getting in my own way.
+
+![1K UV Grid Preview](textures/AM-UV-v4-4K.png)
+
 ---
 
