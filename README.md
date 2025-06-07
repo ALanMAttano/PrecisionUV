@@ -1,7 +1,21 @@
 Friday, ‎August ‎2, ‎2013 | Alan Mattanó | Soaring Stars lab | Buenos Aires Argentina.
 
 # 🎯 UV-Checker-Grid 
+
+![1K UV Grid Preview](textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
+
+
+
 # High-Precision Default UV Test Texture for 3D Workflows
+
+---
+
+## 📖 License
+
+This project is licensed under the **[MIT License](https://github.com/ALanMAttano/UV-Checker-Grid/blob/main/LICENSE)** — free for commercial and non-commercial use.  
+Attribution appreciated, but not required.
+
+---
 
 🔥 A **UV grid checker texture** engineered for professional UV debugging, unwrapping, testing, and alignment across all 3D pipelines. This high-contrast, ultra-readable grid is ideal for determining the optimal resolution for your 3D model and for identifying distortion, flipped UV islands, scaling issues, and seam errors.
 
@@ -12,10 +26,6 @@ Friday, ‎August ‎2, ‎2013 | Alan Mattanó | Soaring Stars lab | Buenos Air
 
 > “A beautiful texture isn't just about surface — it's how it maps the soul of geometry.”  
 > — *Inspired by the spirit of working with Pininfarina and German Frers*
-
-
-![1K UV Grid Preview](textures/PrecisionUVmapTexture-AlanMatt-Vr4-02-1K.png)
-
 
 ## 📦 Download Resolutions
 
@@ -95,13 +105,6 @@ If this "UV Checker Grid" high-precision UV test texture map has helped improve 
 
 ---
 
-## 📖 License
-
-This project is licensed under the **[MIT License](https://github.com/ALanMAttano/UV-Checker-Grid/blob/main/LICENSE)** — free for commercial and non-commercial use.  
-Attribution appreciated, but not required.
-
----
-
 ## 💬 Feedback & Community
 
 Open an issue for bugs, ideas, or suggestions.  
@@ -129,5 +132,21 @@ Open an issue or submit a PR. UV-Checker-Grid is built by designers, for designe
 - [Blender UV Mapping Guide](https://docs.blender.org/manual/en/latest/modeling/meshes/uv/editing.html)
 - [Substance Workflow Tips](https://substance3d.adobe.com)
 
+---
+
+### 🛠️ Evolution Resume
+
+This texture map is designed for unwrapping various types of 3D models.
+
+I began creating and selling textures in 2007, and by 2011, I was developing blue grid textures specifically for video games. One of the key purposes of these textures is to help determine the optimal texture size, keeping it as small as possible while preserving material detail.
+
+That’s why I initially used those huge, ugly numbers. Things got even messier when I started adding different materials. lol
+Draft but ready early attempts!
+
+Each year, I refine the texture, making it cleaner and more efficient. I began by identifying the features I was using intuitively. Then, by extracting and isolating those elements, I created specific patterns, icons or symbol-shaped objects to handle each individual task.
+
+I didn’t create the Rhino one, but I use it as inspiration, trying to follow its spirit as closely as possible. The original blue color scheme and font were part of my style, but they ultimately proved too specific and distracting. The same goes for the Rhino font.
+
+I moved toward a more neutral gray and switched to Roboto, a widely used and familiar font, so that it wouldn’t visually interfere or draw unnecessary attention. I try to remove myself from the design as much as possible and keep pushing by avoiding getting in my own way.
 ---
 
