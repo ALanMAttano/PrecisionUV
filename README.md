@@ -34,9 +34,9 @@ Get the UV-Checker-Grid in various formats optimized for different pipelines:
 
 | Format | Description | File | Version |
 |--------|-------------|------|---------|
-| ⚙️ `.sbsar` | **Only 315Kb Substance Archive** — compiled, lightweight version for deployment at runtime use in game engines and pipelines. That can be deployed when installing the application. | [AlanUV-CheckerGridVr5.sbsar](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/procedural/UV-CheckerGridVr57.sbsar) | 5.7 |
-| 🧪 `.sbs` | Editable **Substance Designer** source code file for developers who want to modify or build their own variant | [AlanUV-CheckerGridVr5.sbs](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/sbs/UV-CheckerGridVr57.sbs) | 5.7 |
-| 🖼️ PNG | 1K–8K UV grid image for direct use in materials or testing | [`textures/`](https://github.com/ALanMAttano/UV-Checker-Grid/tree/main/textures) | 4.4 |
+| ⚙️ `.sbsar` | **Only 315Kb Substance Archive** — compiled, lightweight version for deployment at runtime use in game engines and 3D unwrapping pipelines. That can be deployed when installing the application. Under MIT License. | [AlanUV-CheckerGridVr5.sbsar](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/procedural/UV-CheckerGridVr53.sbsar) | 5.3 |
+| 🧪 `.sbs` | Editable **Substance Designer** source code file for developers who want to modify or build their own variant. Under MIT License. | [AlanUV-CheckerGridVr5.sbs](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/sbs/UV-CheckerGridVr53.sbs) | 5.3 |
+| 🖼️ PNG | 1K–8K UV grid image for direct use in materials or testing. Under CC-BY 4.0 License.  | [`textures/`](https://github.com/ALanMAttano/UV-Checker-Grid/tree/main/textures) | 4.4 |
 
 > 🔄 Compatible with: Rhinoceros 3D, RizomUV, Blender, Unreal Engine, Unity, Substance Player, Marmoset, and more.
 
