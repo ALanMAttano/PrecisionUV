@@ -32,14 +32,14 @@ Get the UV-Checker-Grid in various formats optimized for different pipelines:
 
 | Format | Description | File | Version |
 |--------|-------------|------|---------|
-| ⚙️ `.sbsar` | **Only 315Kb Substance Archive** — compiled, lightweight version for deployment at runtime use in game engines and 3D unwrapping pipelines. That can be deployed when installing the application. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbsar](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/procedural/UV-CheckerGridVr53.sbsar) | 5.3 |
-| 🧪 `.sbs` | Editable **Substance Designer** source code file for developers who want to modify or build their own variant. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbs](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/procedural/UV-CheckerGridVr53.sbs) | 5.3 |
+| `.sbsar` | **Only 315Kb Substance Archive** — compiled, lightweight version for deployment at runtime use in game engines and 3D unwrapping pipelines. That can be deployed when installing the application. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbsar](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/procedural/UV-CheckerGridVr53.sbsar) | 5.3 |
+| `.sbs` | Editable **Substance Designer** source code file for developers who want to modify or build their own variant. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbs](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/procedural/UV-CheckerGridVr53.sbs) | 5.3 |
 | 🖼️ PNG | 1K–8K UV grid image for direct use in materials or testing. Under CC-BY 4.0 License.  | [Go To Download PNG](##download-png)  | 4.4 |
 
 > 🎮 Compatible with: Rhinoceros 3D, RizomUV, Blender, Unreal Engine, Unity, Substance Player, Marmoset, and any 3D tool supporting custom UV map textures
 
 ## Download PNG
-Click to download the UV texture map in your preferred resolution up to 4K:
+⚙️ Click to download the preferred UV texture resolution up to 4K:
 
 - 🔹 [Download 512](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-512.png)
 - 🔹 [Download 1K](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/textures/AM2512v44-UVCheckerGrid-UnwrapDebugging-TextureMap-1K.png)
@@ -62,7 +62,7 @@ If this "UV Checker Grid" high-precision UV test texture map has helped improve 
 
 - 💎 **Optimized for unwrapping Mesh, NURBS, and SubD workflows**
 - 🏁 **High-resolution Texture Checker Grid:** Built for maximum contrast and visibility in UV layout workflows.
-- 💯 **Multiple Resolutions:** Available in 8K, 4K, 2K, and 1K — ensuring sharp results across performance needs.
+- 💯 **Multiple Resolutions:** Available in 8K, 4K, 2K, 1K, and lower — ensuring sharp results across performance needs.
 - 🧱 **High-Density Grid + Pixel Noise:** Ideal for testing filtering, mip-mapping, and identifying blur artifacts.
 - 🎯 **Numbered Coordinates:** marked from [0,0] to [1,1] for orientation and reference.
 - ✅ **PBR-Friendly Grayscale:** Clean and neutral, optimized for the base color channel.
