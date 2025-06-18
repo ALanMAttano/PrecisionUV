@@ -23,9 +23,7 @@ These UV Checker Grid script code .sbs (and .sbsar) files are licensed under the
 🧠 Commonly referred to as:
 **UVGrid**, **UVCheckerMap**, **UVTestGrid**, **UVMapGuide**, **UVUnwrapGrid**, **UVCheckerTexture**, or **UVDebugMap** — this texture consolidates the strengths of all of them into one powerful, go-to default map.
 
-🎮 Compatible with Rhino, Blender, Unreal Engine, Unity, Substance 3D, RizomUV, and any tool supporting custom UV test textures.
-
-> “A beautiful texture isn't just about surface — it's how it maps the soul of geometry.”  
+> “A beautiful texture isn't just about surface — it's how well it maps the soul of geometry.”  
 > — *Inspired by the spirit of working with Pininfarina and German Frers*
 
 ## 📦 Download Formats
@@ -35,10 +33,10 @@ Get the UV-Checker-Grid in various formats optimized for different pipelines:
 | Format | Description | File | Version |
 |--------|-------------|------|---------|
 | ⚙️ `.sbsar` | **Only 315Kb Substance Archive** — compiled, lightweight version for deployment at runtime use in game engines and 3D unwrapping pipelines. That can be deployed when installing the application. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbsar](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/procedural/UV-CheckerGridVr53.sbsar) | 5.3 |
-| 🧪 `.sbs` | Editable **Substance Designer** source code file for developers who want to modify or build their own variant. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbs](https://github.com/ALanMAttano/UV-Checker-Grid/raw/main/procedural/UV-CheckerGridVr53.sbs) | 5.3 |
-| 🖼️ PNG | 1K–8K UV grid image for direct use in materials or testing. Under CC-BY 4.0 License.  | [Go To Download](##download-png)  | 4.4 |
+| 🧪 `.sbs` | Editable **Substance Designer** source code file for developers who want to modify or build their own variant. Under MIT License. | [UV-CheckerGrid Vr5.3 .sbs](https://raw.githubusercontent.com/ALanMAttano/UV-Checker-Grid/main/procedural/UV-CheckerGridVr53.sbs) | 5.3 |
+| 🖼️ PNG | 1K–8K UV grid image for direct use in materials or testing. Under CC-BY 4.0 License.  | [Go To Download PNG](##download-png)  | 4.4 |
 
-> 🔄 Compatible with: Rhinoceros 3D, RizomUV, Blender, Unreal Engine, Unity, Substance Player, Marmoset, and more.
+> 🎮 Compatible with: Rhinoceros 3D, RizomUV, Blender, Unreal Engine, Unity, Substance Player, Marmoset, and any 3D tool supporting custom UV map textures
 
 ## Download PNG
 Click to download the UV texture map in your preferred resolution up to 4K:
